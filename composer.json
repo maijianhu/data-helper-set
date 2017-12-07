@@ -1,0 +1,17 @@
+{
+    "name": "m35/data-helper-set",
+    "authors": [
+        {
+            "name": "maijianhu",
+            "email": "maijianhu@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.4 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "m35\\": "src/"
+        }
+    }
+}

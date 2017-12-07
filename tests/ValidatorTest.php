@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: maijianhu
- * Date: 2017/12/6
- * Time: 10:40
+ * DataHelperSet
  */
 use PHPUnit\Framework\TestCase;
 use m35\DataHelperSet;

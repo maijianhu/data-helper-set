@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: maijianhu
- * Date: 2017/11/30
- * Time: 10:49
+ * DataHelperSet
  */
 namespace m35;
 

@@ -1,16 +1,13 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: maijianhu
- * Date: 2017/11/30
- * Time: 10:47
+ * DataHelperSet
  */
-use DataHelperSet\DataHelperSet;
-use DataHelperSet\DataHelperSetValidator;
-use DataHelperSet\DataHelperSetFormatter;
-use DataHelperSet\DataHelperSetFilter;
-use DataHelperSet\exception\DataHelperSetValidateException;
-use DataHelperSet\exception\DataHelperSetFilterException;
+use m35\DataHelperSet;
+use m35\DataHelperSetValidator;
+use m35\DataHelperSetFormatter;
+use m35\DataHelperSetFilter;
+use m35\exception\DataHelperSetValidateException;
+use m35\exception\DataHelperSetFilterException;
 
 require 'autoload.php';
 $postData = [

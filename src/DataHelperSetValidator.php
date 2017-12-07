@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: maijianhu
- * Date: 2017/11/29
- * Time: 18:06
+ * DataHelperSet
  */
 namespace m35;
 use m35\exception\DataHelperSetValidateException;

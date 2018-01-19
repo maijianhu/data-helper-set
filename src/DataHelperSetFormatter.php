@@ -24,7 +24,6 @@ class DataHelperSetFormatter implements DataHelperSetExtendable
         if (is_callable($type)) {
             return call_user_func($type, $data);
         }
-
         switch ($type) {
             case self::TYPE_STRING:
                 return is_scalar($data) ? (string) $data : null;
